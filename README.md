@@ -50,8 +50,11 @@ The goal of this task was to build a Decision Tree Classifier to predict whether
 
 ## Visualizations
 📊 **Decision Tree Output**  
+<img width="1891" height="903" alt="image" src="https://github.com/user-attachments/assets/0e91c2de-0536-4de5-b445-b54480d29123" />
+
 📊 **Feature Importance Chart**  
 <img width="437" height="251" alt="image" src="https://github.com/user-attachments/assets/61592783-d0a5-4594-8356-0f883ff1e9a1" />
+
 📊 **Confusion Matrix**
 
 (Add your screenshots here in the repo)
