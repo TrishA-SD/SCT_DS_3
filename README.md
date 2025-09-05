@@ -56,6 +56,7 @@ The goal of this task was to build a Decision Tree Classifier to predict whether
 <img width="437" height="251" alt="image" src="https://github.com/user-attachments/assets/61592783-d0a5-4594-8356-0f883ff1e9a1" />
 
 📊 **Confusion Matrix**
+
 <img width="653" height="337" alt="image" src="https://github.com/user-attachments/assets/b39a8fde-1fbe-4be5-8afc-e7e242060760" />
 
 
